@@ -39,14 +39,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="48" height="48" style="margin: 4px;" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="48" height="48" style="margin: 4px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="48" height="48" style="margin: 4px;" />
 </p>
 
 > ## Web3
 <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" alt="EVM / Ethereum" width="48" height="48" style="margin: 4px;" />
-    <img src="https://cdn.simpleicons.org/hardhat/FFF100" alt="Hardhat" width="48" height="48" style="margin: 4px;" />
-    <img src="https://cdn.simpleicons.org/ipfs/65C2CB" alt="IPFS" width="48" height="48" style="margin: 4px;" />
+    <img src="https://img.shields.io/badge/EVM-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="EVM" />
+    <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+    <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black" alt="Hardhat" />
+    <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS" />
+    <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=forgejo&logoColor=white" alt="Foundry" />
 </p>
 
 > ## Databases
@@ -68,8 +69,10 @@
 
 > ## Observability & Monitoring
 <p align="center">
-    <img src="https://cdn.simpleicons.org/prometheus/E6522C" alt="Prometheus" width="48" height="48" style="margin: 4px;" />
-    <img src="https://cdn.simpleicons.org/grafana/F46800" alt="Grafana" width="48" height="48" style="margin: 4px;" />
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+    <img src="https://img.shields.io/badge/DataDog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="DataDog" />
+    <img src="https://img.shields.io/badge/Loki-FCC624?style=for-the-badge&logo=grafana&logoColor=black" alt="Loki" />
 </p>
 
 > ## Tools
@@ -77,7 +80,15 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" />
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" />
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" />
-    <img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" width="48" height="48" style="margin: 4px;" />
+</p>
+
+> ## Core Expertise
+<p align="center">
+    <img src="https://img.shields.io/badge/Software%20Architecture-0A0A0A?style=for-the-badge" alt="Software Architecture" />
+    <img src="https://img.shields.io/badge/Distributed%20Systems-0A0A0A?style=for-the-badge" alt="Distributed Systems" />
+    <img src="https://img.shields.io/badge/Peer%20to%20Peer-0A0A0A?style=for-the-badge" alt="Peer to Peer" />
+    <img src="https://img.shields.io/badge/System%20Design-0A0A0A?style=for-the-badge" alt="System Design" />
+    <img src="https://img.shields.io/badge/Scalability%20%26%20Reliability-0A0A0A?style=for-the-badge" alt="Scalability and Reliability" />
 </p>
 
 <p align="center">
