@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/e0/93/3c/e0933cfe30da2c82232d339dc0e64eb6.gif" alt="Banner" width="100%" />
+<img src="./github/life_is_a_dream.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - I’m a Software Engineer focused on backend systems, distributed architecture, and infrastructure-heavy applications. I like building reliable services, designing clean APIs, and making pragmatic trade-offs around scalability, performance, and maintainability.
